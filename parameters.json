@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servers_sivakajan_name": {
+            "value": null
+        },
+        "sites_azurespring_name": {
+            "value": null
+        },
+        "sites_spring2kajan_name": {
+            "value": null
+        },
+        "servers_sivakajansever_name": {
+            "value": null
+        },
+        "vaults_sivakajankey_name": {
+            "value": null
+        },
+        "sites_frontpageSivakajan_name": {
+            "value": null
+        },
+        "sites_justsivakajanfront_name": {
+            "value": null
+        },
+        "frontdoors_sivakajanhost_name": {
+            "value": null
+        },
+        "servers_sivakajansever0_name": {
+            "value": null
+        },
+        "servers_sivakajandatabase_name": {
+            "value": null
+        },
+        "components_frontpageSivakajan_name": {
+            "value": null
+        },
+        "components_justsivakajanfront_name": {
+            "value": null
+        },
+        "serverfarms_ASP_AzureSivakajan_b41f_name": {
+            "value": null
+        },
+        "serverfarms_ASP_AzureSivakajan_b69b_name": {
+            "value": null
+        },
+        "storageAccounts_sqlvajbwl2vsqnxa3y_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___frontpagesivakajan_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___justsivakajanfront_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "serverfarms_ASP_sivakajanWeb_948d_externalid": {
+            "value": null
+        }
+    }
+}
